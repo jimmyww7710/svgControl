@@ -14,4 +14,4 @@ control svg with Jquery
       </svg>
   </section>
 ```
-###### 執行getSvgId()取得array型態的所有
+###### 執行getSvgId()取得array型態的所有id
